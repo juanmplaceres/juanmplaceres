@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Juan 👋
 
-<!--
-**juanmplaceres/juanmplaceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with backend development and data automation.
 
-Here are some ideas to get you started:
+## Tech
+- C#
+- SQL
+- APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+I build simple systems that solve real problems and reduce manual work.
+
+## Currently
+Working on projects related to data automation and backend systems.
+
+## faikd8089@proton.me
